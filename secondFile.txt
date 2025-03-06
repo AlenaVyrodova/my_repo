@@ -1,1 +1,2 @@
 -e  "LineFirstEdit 1\nLineFirstEdit 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10" 
+-e  "LineEditSecond 1\nLineEditSecond 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10"
