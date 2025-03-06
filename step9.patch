@@ -1,0 +1,19 @@
+From 0a5b3cafddbf4841956258fbb2af3666e3dc51c0 Mon Sep 17 00:00:00 2001
+From: Vyrodova Alena <alonavyrodova@gmail.com>
+Date: Thu, 6 Mar 2025 14:43:52 +0200
+Subject: [PATCH] Modify two lines in firstFile.txt p.7
+
+---
+ firstFile.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 5b9d0cf..cb9ae99 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1 +1 @@
+--e "Line 1\nLine 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10" 
++-e "LineModifyFirst 1\nLineModifyFirst 2\nLine 3\nLine 4\nLine 5\nLine 6\nLine 7\nLine 8\nLine 9\nLine 10" 
+-- 
+2.39.2.windows.1
+
