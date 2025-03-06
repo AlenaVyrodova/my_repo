@@ -1,2 +1,2 @@
--e "LineModifyFirstSecond 1\nLineModifyFirstSecond 2\nLineModifySecond 3\nLineModifySECOND 4\nLine second 5\nLinesecond 6\nLine 7\nLine 8\nLine 9\nLine 10" 
+-e "LineModifyFirstSecond 1\nLineModifyFirstSecond 2\nLineModifySecond 3\nLineModifySECOND 4\nLine second 5\nLinesecond 6\nLineChanges 7\nLine 8\nLine 9\nLine 10" 
 
